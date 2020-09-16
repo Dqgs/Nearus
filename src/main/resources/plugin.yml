@@ -1,0 +1,9 @@
+name: NearUs
+version: ${project.version}
+main: dqgs.nearus.NearUs
+api-version: 1.8.8
+
+commands:
+  SetWaitingArea:
+    description: Set the waiting area
+    usage: /<command>

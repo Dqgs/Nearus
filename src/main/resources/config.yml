@@ -1,0 +1,15 @@
+killcooldown: 15
+minPlayers: 2
+maxPlayers: 10
+Killers: 2
+
+
+#Messages
+reamining: 'There is not enough we need &b{remaining} to start'
+joinmessage: '&b&l{name} &4has joined the lobby'
+
+#waiting area location
+w.world: world
+w.x: 0
+w.y: 50
+w.z: 0
