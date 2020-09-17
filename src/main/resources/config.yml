@@ -13,3 +13,9 @@ w.world: world
 w.x: 0
 w.y: 50
 w.z: 0
+
+#Ship Location
+s.world: world
+s.x: 0
+x.y: 50
+s.z: 0

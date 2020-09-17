@@ -7,6 +7,10 @@ public class Status {
     GameStatus status;
 
     public Status(){
+
+    }
+    public Status(GameStatus gameStatus){
+        status = gameStatus;
     }
 
     public void setStatus(GameStatus status){
